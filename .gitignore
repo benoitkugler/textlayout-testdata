@@ -1,2 +1,4 @@
 # Proprietary Macos fonts
 harfbuzz/harfbuzz_reference/in-house/macos/*
+
+.mypy_cache/*
